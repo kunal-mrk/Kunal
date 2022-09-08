@@ -22,4 +22,7 @@ public class MyCalculation {
 	public static void Mychange(){
 	system.debug('Hello');
 }
+  public static void Mychange1(){
+	system.debug('Hello111');
+}
 }
